@@ -8,3 +8,5 @@ header_pages:
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
