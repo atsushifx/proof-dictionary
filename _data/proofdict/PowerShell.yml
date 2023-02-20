@@ -1,0 +1,10 @@
+id: 01GSQ75CEZ3QYK55FW7XJG5SRY
+description: '表記ゆれ: PowerShell に統一'
+expected: PowerShell
+patterns:
+  - /powershell/i
+allows: []
+specs:
+  - from: PowerSHell
+    to: PowerShell
+tags: []
