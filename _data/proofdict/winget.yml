@@ -1,0 +1,10 @@
+id: 01GT1NTVC8K5EPPY52PDHP6K5E
+description: Windows Package Manager (winget)は小文字で統一
+expected: winget
+patterns:
+  - /WinGet/i
+allows: []
+specs:
+  - from: WinGet
+    to: winget
+tags: []
